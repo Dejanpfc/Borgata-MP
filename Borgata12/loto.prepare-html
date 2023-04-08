@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="normalize.css">
+        <link rel="stylesheet" href="styles.css">
+        <title> Borgata MP</title>
+
+    </head>
+    <body>
+        <header>
+            <h1>Menjacnica Borgata MP</h1>
+        </header>
+        <section class="banner">
+            <img src="img/Narodna-lutrija-Srbije.jpg" alt="Ilija welcome" width="100%">
+            <div class="dobrodosli">Dole mozete pogledati kompletnu<br>ponudu igara na srecu koje nudimo</div>
+        </section>
+            <nav class="main-nav">
+                <ul>
+                    <li><a href="/kurs.html" class="kurs">Kursna lista</a></li>
+                    <li><a href="/racuni.html">Uplata racuna</a</li>
+                    <li><a href="/wu.html"> Western - Ria</a></li>
+                    <li><a href="index.html">Pocetna</a></li>
+                </ul>
+            </nav>
+            <main>
+                <article>
+                    <hr>
+                  <h2 class="igre"><u>Igre na sreću</u>  </h2>
+                </article>
+                <br><hr><br>
+                <article>
+                    
+                </article>
+                <div>
+                    <img class="mySlides" src="img/Screenshot_20230209_180842_Chrome.jpg" width="33%" height="300px">
+                    <img class="mySlides" src="img/Screenshot_20230209_180926_Chrome.jpg" width="33%" height="300px">
+                    <img class="mySlides" src="img/Screenshot_20230209_180937_Chrome.jpg" width="33%" height="300px">
+                </div>
+                <br><br>
+                <div>
+                    <img class="mySlides" src="img/Screenshot_20230209_180946_Chrome.jpg" width="33%" height="300px">
+                    <img class="mySlides" src="img/Screenshot_20230209_181005_Chrome.jpg" width="33%" height="300px">
+                    <img class="mySlides" src="img/Screenshot_20230209_181013_Chrome.jpg" width="33%" height="300px">
+                </div>
+                <br><br>
+                <div>
+                    <img class="mySlides" src="img/Screenshot_20230209_181034_Chrome.jpg" width="33%" height="300px">
+                    <img class="mySlides" src="img/Screenshot_20230209_181050_Chrome.jpg" width="33%" height="300px">
+                    <img class="mySlides" src="img/Screenshot_20230209_180853_Chrome.jpg" width="33%" height="300px">
+                </div>
+                <br><br>
+                <div>
+                    <img class="mySlides" src="img/Screenshot_20230209_180910_Chrome.jpg" width="33%" height="300px">
+                    <img class="mySlides" src="img/Screenshot_20230209_181207_Chrome.jpg" width="33%" height="300px">
+                    <img class="mySlides" src="img/Screenshot_20230209_180900_Chrome.jpg" width="33%" height="300px">
+                </div>
+            
+              
+                        
+            </main>
+
+            <section class="join">
+                <article>
+                    <h1>Nacini na koje nas mozete kontaktirati:</h1>
+                    <p>Mozete nas kontaktirati putem mobilnog telefona na broj: 060/670-7180</p>
+                    <p>Ili poslati poruku na Email:marija050917@gmail.com</p>
+                    <p>Ili direktna poruka <a href="mailto:office@example.com">email link</a></p>
+                    <p>Mozete poslati poruku na Facebook:Menjacnica Borgata MP<a href="https://www.facebook.com/ " target="_blank">email link</a></p>
+                  </article>
+                <form>
+                  <img src="img/mesto.jpg" width="400px">
+                  <p>Ulica Kralja Petra 1 broj 50</p>
+                </form>
+            </section> 
+            <footer>
+                <p class="copyright">Website by: dejanpfc1@outlook.com</p>
+            </footer>
+    </body>
+</html>
